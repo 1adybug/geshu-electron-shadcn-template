@@ -1,6 +1,6 @@
 # 项目介绍
 
-格数科技 `Electron + Rsbuild + React + TypeScript` 项目模板
+格数科技 `Electron + Rsbuild + React + TypeScript + Shadcn/UI + Tailwind CSS 4` 项目模板
 
 ## 开发
 
